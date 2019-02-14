@@ -1,0 +1,2 @@
+- Tạo database
+- Gắn use vào database vừa tạo

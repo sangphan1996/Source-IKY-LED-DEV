@@ -1,0 +1,38 @@
+[DebugChecksum]
+Checksum=207973051
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "D:\HaiDV\IKY_BACKUP_20160802\IKY Company\IKY_FOUND\fw\MAIN\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim1.c" ""
+A1=_ "D:\HaiDV\IKY_BACKUP_20160802\IKY Company\IKY_FOUND\fw\MAIN\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim2.c" ""
+A2=_ "D:\HaiDV\IKY_BACKUP_20160802\IKY Company\IKY_FOUND\fw\MAIN\Projects\ver1.0\src\io_control.c" ""
+A3=_ "D:\HaiDV\IKY_BACKUP_20160802\IKY Company\IKY_FOUND\fw\MAIN\Projects\ver1.0\src\main.c" ""
+Count=4
+SuppressDialog=0
+[DebuggerSettings]
+DisableInterruptsWhenStepping=0

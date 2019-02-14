@@ -1,0 +1,3 @@
+ - Cấu hình ENable TCP IP
+ - Cấu hình Port
+ - connect: IP,Port/Instance Name

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="option">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="frmMain_chkRun" type="xs:string" default="false" minOccurs="0" />
+                <xs:element name="frmMain_chkGoiKH" type="xs:string" minOccurs="0" />
+                <xs:element name="frmMain_chkGoiTenKH" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <option>
+    <frmMain_chkRun>false</frmMain_chkRun>
+    <frmMain_chkGoiKH>true</frmMain_chkGoiKH>
+    <frmMain_chkGoiTenKH>false</frmMain_chkGoiTenKH>
+  </option>
+</NewDataSet>
